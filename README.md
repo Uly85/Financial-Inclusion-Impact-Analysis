@@ -1,7 +1,7 @@
-# Project Name: Financial-Inclusion-Impact-Analysis
-## Case Study: The Impact of Mobile Phone Usage on Borrowing Behavior and Indebtedness in Indonesia
+## Project Name: Financial-Inclusion-Impact-Analysis
+### Case Study: The Impact of Mobile Phone Usage on Borrowing Behavior and Indebtedness in Indonesia
 
-## Overview
+#### Overview
 
 This study uses survey data to investigate the impact of mobile phone usage on borrowing behavior and indebtedness among individuals in Indonesia.
 The study will utilize individual-level survey data incorporating demographic, financial access, and technology-related variables. 
@@ -15,7 +15,7 @@ Research Objectives
 
 •	To explore demographic differences in financial behavior related to mobile technology adoption.
 
-## Data
+#### Data
 
 The data is sourced from the Global Financial Inclusion (Global Findex) Database 2021 - WorlBank.
 
